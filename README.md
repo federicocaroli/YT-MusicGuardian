@@ -9,7 +9,7 @@
 
 ---
 
-## 📂 File Structure
+## 📂 Repository Structure
 ```
 |-- examples/
     |-- songs.csv                # Input file containing music details (name, URL, genre)
@@ -92,7 +92,7 @@ Song3;https://www.youtube.com/watch?v=ghi789;jazz
 ---
 
 ## 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
