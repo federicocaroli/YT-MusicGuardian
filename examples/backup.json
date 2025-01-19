@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Song1",
+        "url": "https://www.youtube.com/watch?v=abc123",
+        "genre": "pop"
+    },
+    {
+        "name": "Song2",
+        "url": "https://www.youtube.com/watch?v=def456",
+        "genre": "rock"
+    }
+]
